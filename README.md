@@ -1,15 +1,3 @@
-> http://microjs.com/#
-
-该网站的资源都托管到了`github`，`microjs.com`是一个可以让你选择微型的`js`类库的网站，该网站里的`js`库都是压缩后不大于5KB的，非常实用
-
-![图片描述][1]
----
->https://plainjs.com/（10.22更新）
-
-The Vanilla JavaScript Repository，该仓库都是用原生`js`写的插件和组件，很实用。里面的项目也都托管到了github
-
-![图片描述][2]
-
 # 目录
 
 * [综合/资源](#综合/资源)
